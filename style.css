@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    background-color: black;
+    color: white;
+    height: 60px;
+}
+
+    
+
+.main > a{
+    color: white;
+    text-decoration: none;
+}
+
+
+table,tr,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: #f0f0f0;
+
+  }
